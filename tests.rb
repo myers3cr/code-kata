@@ -1,6 +1,5 @@
 require_relative 'solution'
 
-
 describe 'solution' do
   it 'passes these tests' do
     expect(seven(times(five))).to eq 35
